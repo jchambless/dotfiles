@@ -1,0 +1,11 @@
+[user]
+    name = James Chambless
+    email = j.chamlbess@gmail.com
+    username = jchambless
+
+[init]
+    defaultBranch = master
+
+[core]
+    editor = vscode
+    whitespace = fix,-indent-with-non-tab,trailing-space,lfs-at-eol
